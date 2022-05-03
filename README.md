@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EliassHB7
 - 👀 I’m interested in Automation and Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analysis and automation using SQL or Python
+- 💞️ I’m looking to collaborate on data analysis and automation using SQL and Python
 - 📫 How to reach me eliass.hotta.bouhaik@gmail.com
 
 <!---
